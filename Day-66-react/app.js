@@ -1,0 +1,1 @@
+// import alok from './index'
